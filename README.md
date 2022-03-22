@@ -1,11 +1,12 @@
-# [Título del trabajo]
+# [DEFENSA_SICILIANA]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Haremos un ajedrez de dos jugadores.]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Arturo Martín Moreno arturomm
+ Adrian Vallejo Gil .]
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[Llevar a la practica lo aprendido en clase y comprender mejor el funcionamiento del juego del ajedrez]
