@@ -5,7 +5,7 @@
 ## Integrantes del equipo
 
 [Arturo Martín Moreno arturomm
- Adrian Vallejo Gil .]
+ Adrian Vallejo Gil  AdriUpm.]
 
 ## Objetivos del trabajo
 
