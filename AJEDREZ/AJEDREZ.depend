@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1657051238 source:c:\users\pc\desktop\adrian\github desktop\repositorios\twe100_2122-defensa_siciliana\ajedrez\inicializar.c
+	"Inicializar.h"
+
+1657050819 c:\users\pc\desktop\adrian\github desktop\repositorios\twe100_2122-defensa_siciliana\ajedrez\inicializar.h
+
+1657051169 source:c:\users\pc\desktop\adrian\github desktop\repositorios\twe100_2122-defensa_siciliana\ajedrez\main.c
+	<stdio.h>
+	"Inicializar.h"
+
