@@ -462,6 +462,10 @@ void TORRE(char x[], casilla torre[], int turno,int disponible [])
         {
             error = bloqueo(torre[j].x,l,h,x);
         }
+        if(error == 1)
+        {
+            printf("Intentalo de nuevo");
+        }
     }
     while(error == 1 || error == 2);
 
@@ -589,6 +593,10 @@ void ALFIL(char x[], casilla alfil[], int turno, int disponible[])
         if(error == 0)
         {
             error = bloqueo(alfil[j].x,l,h,x);
+        }
+        if(error == 1)
+        {
+            printf("Intentalo de nuevo");
         }
     }
     while(error == 1 || error == 2);
@@ -729,6 +737,10 @@ void CABALLO(char x[], casilla caballo[], int turno, int disponible[])
         if(error == 0)
         {
             error = bloqueoC(caballo[j].x,l,x);
+        }
+        if(error == 1)
+        {
+            printf("Intentalo de nuevo");
         }
     }
     while(error == 1 || error == 2);
@@ -898,6 +910,10 @@ void REINA(char x[], casilla *reina, int turno, int disponible [])
         {
             error = bloqueo(reina->x,l,h,x);
         }
+        if(error == 1)
+        {
+            printf("Intentalo de nuevo");
+        }
     }
     while(error == 1 || error == 2);
 
@@ -1051,6 +1067,10 @@ void REY(char x[], casilla *rey, int turno, int disponible[])
         if(error == 0)
         {
             error = bloqueo(rey->x,l,h,x);
+        }
+        if(error == 1)
+        {
+            printf("Intentalo de nuevo");
         }
     }
     while(error == 1 || error == 2);
